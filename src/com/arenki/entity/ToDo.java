@@ -1,4 +1,4 @@
-package com.tokitrack.entity;
+package com.arenki.entity;
 
 import java.util.List;
 import java.util.Optional;
